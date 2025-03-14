@@ -17,7 +17,7 @@ then execute the file conversion thusly.
 ./audio_convert.sh input.wav
 ```
 
-Or you can specify the outoput filename.
+Or you can specify the output filename.
 ```
 ./audio_convert.sh input.mp3 my_output.ul
 ```
