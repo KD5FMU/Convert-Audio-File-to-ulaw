@@ -14,12 +14,12 @@ sudo apt install libsox-fmt-mp3
 then execute the file conversion thusly.
 
 ```
-./convert_to_ulaw.sh input.wav
+./audio_convert.sh input.wav
 ```
 
 Or you can specify the outoput filename.
 ```
-./convert_to_ulaw.sh input.mp3 my_output.ul
+./audio_convert.sh input.mp3 my_output.ul
 ```
 
 
