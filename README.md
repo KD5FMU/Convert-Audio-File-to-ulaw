@@ -11,6 +11,12 @@ Then install the mp3 handler for sox
 sudo apt install libsox-fmt-mp3
 ```
 
+Then download the scrpt file 
+```
+sudo wget https://raw.githubusercontent.com/KD5FMU/Convert-Audio-File-to-ulaw/refs/heads/main/audio_convert.sh
+```
+I like to put my script files in /etc/asterisk/local but you can put them wereever you like. Just remeber wher you put them LOL!
+
 then execute the file conversion thusly.
 
 ```
