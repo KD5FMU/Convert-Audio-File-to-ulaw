@@ -1,4 +1,4 @@
-# Convert-Audio-File-to-ulaw
+# Convert-MP3-Files-to-ulaw
 This script will convert audio file to ulaw files compatible to play on ASL 3
 
 First things first, make sure you hax sox installed
