@@ -1,5 +1,7 @@
 #!/bin/bash
-
+#
+# Created by Freddie McGuire - KD5FMU and OpenAI ChatGPT in 2025
+#
 # Check if sox is installed
 if ! command -v sox &> /dev/null; then
     echo "Error: sox is not installed. Install it using: sudo apt install sox"
